@@ -3,7 +3,6 @@
 #include <string.h>
 #include "atFila.h"
 
-//MARIA EDUARDA SOARES CARVALHO
 
 struct nodescritor{
 	struct elemento *inicio;

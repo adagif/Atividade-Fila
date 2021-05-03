@@ -3,7 +3,7 @@ struct cliente{
 	int cpf;
 };
 
-//MARIA EDUARDA SOARES CARVALHO
+
 
 typedef struct nodescritor Fila;
 //i) Básicas. Criar, destruir, inserir, remover e acessar;
